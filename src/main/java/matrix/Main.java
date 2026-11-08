@@ -1,3 +1,5 @@
+package matrix;
+
 import matrix.Matrix;
 
 public class Main {
